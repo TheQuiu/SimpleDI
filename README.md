@@ -7,3 +7,6 @@ DependencyInjectorInitializer initializer = new DependencyInjectorInitializer("m
 initializer.getContainer().addDependency(this); //manualy add dependency
 initializer.inject(); // start injection
 ```
+
+
+Special thanks: [Neruxov](https://github.com/Neruxov) 
